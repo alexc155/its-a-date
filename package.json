@@ -1,52 +1,24 @@
 {
-  "name": "its-a-date",
+  "name": "@alexc155/its-a-date",
   "description": "A Natural Language Date Description Processor",
   "version": "1.2.13",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js | tap-min"
   },
-  "author": {
-    "name": "Shai Ben - Dor",
-    "email": "bendorshai@gmail.com",
-    "url": "https://github.com/bendorshai/"
-  },
+  "author": "Shai Ben - Dor <bendorshai@gmail.com> (https://github.com/bendorshai/)",
   "contributors": [
-    {
-      "name": "Or Bergman",
-      "email": "orbergman9@gmail.com",
-      "url": "https://github.com/bbbergman/"
-    },
-    {
-      "name": "Yonatan Perel",
-      "email": "yonatanpe27@gmail.com",
-      "url": "https://github.com/YonatanPerel"
-    },
-    {
-      "name": "Shahar Katz",
-      "email": "skatz1990@gmail.com",
-      "url": "https://github.com/skatz1990"
-    },
-    {
-      "name": "Aviad Gal",
-      "url": "https://github.com/aviadgal"
-    },
-    {
-      "name": "Koren Oppenheimer",
-      "url": "https://github.com/KorenOp"
-    },
-    {
-      "name": "Doron Brikman",
-      "url": "https://github.com/doronbrikman"
-    },
-    {
-      "name": "Yaron Leiby",
-      "url": "https://github.com/norayz"
-    }
+    "Or Bergman <orbergman9@gmail.com> (https://github.com/bbbergman/)",
+    "Yonatan Perel <yonatanpe27@gmail.com> (https://github.com/YonatanPerel)",
+    "Shahar Katz <skatz1990@gmail.com> (https://github.com/skatz1990)",
+    "Aviad Gal (https://github.com/aviadgal)",
+    "Koren Oppenheimer (https://github.com/KorenOp)",
+    "Doron Brikman (https://github.com/doronbrikman)",
+    "Yaron Leiby (https://github.com/norayz)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bendorshai/its-a-date.git"
+    "url": "git+https://github.com/alexc155/its-a-date.git"
   },
   "license": "ISC",
   "dependencies": {
@@ -69,5 +41,9 @@
   "devDependencies": {
     "tap-min": "^1.1.0",
     "tape": "4.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/alexc155/its-a-date/issues"
+  },
+  "homepage": "https://github.com/alexc155/its-a-date#readme"
 }
